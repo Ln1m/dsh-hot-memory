@@ -1,5 +1,7 @@
 # dsh-hot-memory
 
+[English](README.en.md) · 中文
+
 把 Mnemon 的运行时记忆文件（`USER.md` / `MEMORY.md`）投影进每个会话的 systemPrompt，作为一个懒加载区段，不受 dsh-mnemon 生命周期门控影响。
 
 ## 装
