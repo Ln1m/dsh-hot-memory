@@ -28,8 +28,8 @@
         "type": "git",
         "url": "git+https://github.com/Ln1m/dsh-hot-memory.git"
     },
-    "homepage": "https://github.com/Ln1m/dsh-hot-memory#readme",
+    "homepage": "https://github.com/Ln1m/dsh-tool-hot-memory#readme",
     "bugs": {
-        "url": "https://github.com/Ln1m/dsh-hot-memory/issues"
+        "url": "https://github.com/Ln1m/dsh-tool-hot-memory/issues"
     }
 }
